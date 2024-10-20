@@ -23,6 +23,7 @@
 
       .message {
         padding: 20px;
+        margin: 20px;
 
         &.user {
           background: #2c2937;
