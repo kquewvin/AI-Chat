@@ -16,21 +16,6 @@ const ChatList = () => {
         <Link to="/">My Chat Title</Link>
         <Link to="/">My Chat Title</Link>
         <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link>
-        <Link to="/">My Chat Title</Link> 
       </div>
       <hr />
       <div className="copyright">

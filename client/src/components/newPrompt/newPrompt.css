@@ -3,6 +3,7 @@
 }
 
 .newForm {
+  margin-left: 300px;
   width: 50%;
   position: absolute;
   bottom: 0;
@@ -37,6 +38,5 @@
       width: 16px;
       height: 16px;
     }
-
   }
 }

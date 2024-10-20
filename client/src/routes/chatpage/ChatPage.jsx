@@ -19,32 +19,6 @@ const ChatPage = () => {
 					<div className="message user">TEST FROM USER</div>
 					<div className="message ">TEST</div>
 					<div className="message user">TEST FROM USER</div>
-					<div className="message">TEST</div>
-					<div className="message user">TEST FROM USER</div>
-					<div className="message ">TEST</div>
-					<div className="message user">TEST FROM USER</div>
-					<div className="message">TEST</div>
-					<div className="message user">TEST FROM USER</div>
-					<div className="message ">TEST</div>
-					<div className="message user">TEST FROM USER</div>
-					<div className="message">TEST</div>
-					<div className="message user">TEST FROM USER</div>
-					<div className="message ">TEST</div>
-					<div className="message user">TEST FROM USER</div>
-					<div className="message ">TEST</div>
-					<div className="message user">TEST FROM USER</div>
-					<div className="message ">TEST</div>
-					<div className="message user">TEST FROM USER</div>
-					<div className="message ">TEST</div>
-					<div className="message user">TEST FROM USER</div>
-					<div className="message ">TEST</div>
-					<div className="message user">TEST FROM USER</div>
-					<div className="message ">TEST</div>
-					<div className="message user">TEST FROM USER</div>
-					<div className="message ">TEST</div>
-					<div className="message user">TEST FROM USER</div>
-					<div className="message ">TEST</div>
-					<div className="message user">TEST FROM USER</div>
 					<NewPrompt />
 				</div>
 			</div>
