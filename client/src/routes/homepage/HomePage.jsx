@@ -44,7 +44,7 @@ const Homepage = () => {
 								() => {
 									setTypingStatus("bot");
 								},
-								"NIO: HELP I- I DECIDED TO WEAR A PENCIL SKIRT IN SCHOOL AND THE BOYS YELLED 'WOW HOURGLASS!' AND I INTRODUCED MYSELF. (I have a mommy voice) AND THEY ALL HAD NOSEBLEEDS",
+								"NIO: blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah ",
 								1000,
 								() => {
 									setTypingStatus("human2");
@@ -54,7 +54,7 @@ const Homepage = () => {
 								() => {
 									setTypingStatus("bot");
 								},
-								"NIO: adrenaline + noradrenaline + hawk tuah + anger issues + balkan parents + english or spanish + german stare + balkan rage + jonkler laugh + phonk + mango mango mango + jamaican smile + those who know",
+								"NIO: blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah ",
 								1000,
 								() => {
 									setTypingStatus("human1");
